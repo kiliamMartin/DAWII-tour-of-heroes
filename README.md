@@ -1,14 +1,20 @@
-# TourOfHeroes
+# TourOfHeroes Tutorial
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+Este proyecto se ha realizando siguiendo el tutorial "Tour of Heroes" de Angular disponible en: `https://angular.io/tutorial`
 
-## Development server
+## Despliegue del proyecto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para el despliegue del proyecto se ha utilizado Vercel. Enlace: `https://dawii-tour-of-heroes.vercel.app/dashboard`
 
-## Code scaffolding
+## Requisitos para su funcionamiento
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1). Instalar npm y https://nodejs.org/es/download/
+
+2). Creación de componentes
+
+3). Carga de 'héroes' y muestra en forma de lista de los mismos
+
+4). 
 
 ## Build
 
